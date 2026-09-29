@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-This document records a structured review of version 2.0 of the policy. It lists what the policy does well, which gaps a governance or audit reviewer would identify, and the planned changes for version 3.0.
+This document records a structured review of version 2.0 of the policy. Editorial findings were resolved in version 2.1; content gaps are planned for version 3.0. It lists what the policy does well, which gaps a governance or audit reviewer would identify, and the planned changes for version 3.0.
 
 Review date: September 2026.
 
@@ -39,7 +39,9 @@ Review date: September 2026.
 
 ---
 
-## 4. Consistency and Editorial Fixes
+## 4. Consistency and Editorial Fixes (resolved in version 2.1)
+
+All items below were fixed in version 2.1 (September 2026), together with the standardization of the author name to Gustavo Rodrigues and the publication under CC BY 4.0.
 
 | ID | Version | Section | Issue | Fix |
 |---|---|---|---|---|
@@ -71,7 +73,6 @@ Regulatory status check (September 2026): Bill 2,338/2023 was approved by the Fe
 | Document control table and version history | G-10 | Header |
 | Monitoring indicators (for example: percentage of AI tools inventoried, Shadow AI cases detected, high-risk systems with a completed impact assessment) | G-11 | Annex |
 | NIST AI RMF and EU AI Act added as references | Framework mapping, Section 3 | Section 4 update |
-| Editorial fixes E-01 to E-07 | Section 4 of this document | PDF and Markdown |
 
 Target structure for version 3.0:
 

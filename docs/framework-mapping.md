@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document maps each section of the policy (version 2.0) to the frameworks it references. It shows which requirements the policy already addresses and which ones it leaves to the adopting organization.
+This document maps each section of the policy (version 2.1; requirements unchanged from 2.0) to the frameworks it references. It shows which requirements the policy already addresses and which ones it leaves to the adopting organization.
 
 The mapping is a **conceptual alignment** exercise. It is not a certification assessment. ISO/IEC 42001 references are at clause and Annex A control-group level and should be checked against the licensed text of the standard before formal use.
 

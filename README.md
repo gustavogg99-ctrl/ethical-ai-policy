@@ -4,10 +4,11 @@ An original, adoptable policy template that organizations can use to govern the 
 
 | | |
 |---|---|
-| **Version** | 2.0 (January 2026) |
+| **Version** | 2.1 (September 2026) |
 | **Type** | Policy template, not an active policy of any organization |
 | **Languages** | English, Brazilian Portuguese |
 | **Aligned with** | LGPD, ISO/IEC 42001:2023, ISO/IEC 27001, OECD AI Principles, Brazil's Bill 2,338/2023 |
+| **License** | [CC BY 4.0](LICENSE): free to use and adapt, with credit to the author |
 | **Next version** | 3.0, see [review and roadmap](docs/review-and-roadmap.md) |
 
 ---
@@ -16,10 +17,10 @@ An original, adoptable policy template that organizations can use to govern the 
 
 | Language | Read on GitHub | Official PDF |
 |---|---|---|
-| English | [corporate-ai-policy-v2.0.md](policy/en/corporate-ai-policy-v2.0.md) | [PDF](./Corporate%20Policy%20for%20the%20Ethical%20Use%20of%20Artificial%20Intelligence%202.0.pdf) |
-| Português (Brasil) | [politica-corporativa-ia-v2.0.md](policy/pt-br/politica-corporativa-ia-v2.0.md) | [PDF](./Pol%C3%ADtica%20Corporativa%20para%20Uso%20%C3%89tico%20de%20Intelig%C3%AAncia%20Artificial%202.0.pdf) |
+| English | [corporate-ai-policy-v2.1.md](policy/en/corporate-ai-policy-v2.1.md) | [PDF](./Corporate%20Policy%20for%20the%20Ethical%20Use%20of%20Artificial%20Intelligence%202.1.pdf) |
+| Português (Brasil) | [politica-corporativa-ia-v2.1.md](policy/pt-br/politica-corporativa-ia-v2.1.md) | [PDF](./Pol%C3%ADtica%20Corporativa%20para%20Uso%20%C3%89tico%20de%20Intelig%C3%AAncia%20Artificial%202.1.pdf) |
 
-The Markdown versions reproduce the PDF text so the policy can be searched and version-controlled. If they differ, the PDF prevails.
+The Markdown versions reproduce the PDF text so the policy can be searched and version-controlled. If they differ, the PDF prevails. Previous versions are kept in [`archive/`](archive/).
 
 ---
 
@@ -91,14 +92,17 @@ Adopting organizations remain responsible for their own legal and regulatory com
 ```text
 ethical-ai-policy/
 ├── README.md
-├── Corporate Policy for the Ethical Use of Artificial Intelligence 2.0.pdf
-├── Política Corporativa para Uso Ético de Inteligência Artificial 2.0.pdf
+├── LICENSE                     CC BY 4.0
+├── Corporate Policy for the Ethical Use of Artificial Intelligence 2.1.pdf
+├── Política Corporativa para Uso Ético de Inteligência Artificial 2.1.pdf
 ├── policy/
-│   ├── en/corporate-ai-policy-v2.0.md
-│   └── pt-br/politica-corporativa-ia-v2.0.md
-└── docs/
-    ├── framework-mapping.md
-    └── review-and-roadmap.md
+│   ├── en/corporate-ai-policy-v2.1.md
+│   └── pt-br/politica-corporativa-ia-v2.1.md
+├── docs/
+│   ├── framework-mapping.md
+│   └── review-and-roadmap.md
+└── archive/
+    └── v2.0/                   original v2.0 PDFs
 ```
 
 ---
@@ -107,7 +111,8 @@ ethical-ai-policy/
 
 | Version | Date | Changes |
 |---|---|---|
-| 2.0 | January 2026 | Current version. Template status, governance structure, Shadow AI controls, Annex I compliance record. |
+| 2.0 | January 2026 | Initial public template. Template status, governance structure, Shadow AI controls, Annex I compliance record. |
+| 2.1 | September 2026 | Current version. Editorial revision: legislative status of Bill 2,338/2023 updated, EN and PT versions aligned, wording fixes, document control table, author name standardized, published under CC BY 4.0. No change to requirements or controls. |
 | 3.0 | Planned | Risk classification, impact assessment template, AI incident response, vendor due diligence, generative AI rules. See [roadmap](docs/review-and-roadmap.md). |
 
 ---
@@ -120,8 +125,16 @@ ethical-ai-policy/
 
 ## Author
 
-**Gustavo Henrique**, AI Governance Specialist
+**Gustavo Rodrigues**, AI Governance Specialist
 [LinkedIn](https://www.linkedin.com/in/gustavo99rodrigues) · [GitHub](https://github.com/gustavogg99-ctrl)
+
+---
+
+## License
+
+© 2026 Gustavo Rodrigues. Licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+
+You may copy, adapt and use this template, including for commercial purposes, as long as you give appropriate credit: *"Based on the Corporate Policy for the Ethical Use of Artificial Intelligence by Gustavo Rodrigues, licensed under CC BY 4.0."*
 
 ---
 

@@ -2,19 +2,30 @@
 
 | Campo | Valor |
 |---|---|
-| Versão | 2.0 |
+| Versão | 2.1 |
 | Uso | Público |
-| Responsável | Gustavo Henrique, Especialista em Governança de IA |
-| Emissão | Janeiro de 2026 |
-| Formato oficial | [PDF](../../Pol%C3%ADtica%20Corporativa%20para%20Uso%20%C3%89tico%20de%20Intelig%C3%AAncia%20Artificial%202.0.pdf) |
+| Responsável | Gustavo Rodrigues, Especialista em Governança de IA |
+| Emissão | Janeiro de 2026 (v2.0) |
+| Revisão | Setembro de 2026 (v2.1) |
+| Licença | [CC BY 4.0](../../LICENSE) |
+| Formato oficial | [PDF](../../Pol%C3%ADtica%20Corporativa%20para%20Uso%20%C3%89tico%20de%20Intelig%C3%AAncia%20Artificial%202.1.pdf) |
 
 > Este arquivo reproduz o texto do PDF para que ele possa ser lido, pesquisado e versionado no GitHub. Em caso de divergência, prevalece o PDF.
 
 ---
 
+## Controle do Documento
+
+| Versão | Data | Autor | Alterações |
+|---|---|---|---|
+| 2.0 | Janeiro de 2026 | Gustavo Rodrigues | Publicação inicial do modelo. |
+| 2.1 | Setembro de 2026 | Gustavo Rodrigues | Revisão editorial: status legislativo do PL 2.338/2023 atualizado em 4.2; correções de redação (seções 3, 4, 5.2 e Anexo I); inclusão do controle do documento; publicação sob licença CC BY 4.0. Sem alteração de requisitos ou controles. |
+
+---
+
 ## 1. Natureza e Condição de Uso (Modelo)
 
-Este documento é um modelo autoral elaborado por Gustavo Henrique, para orientar a elaboração de uma Política Corporativa de Uso Ético de IA. Este documento não representa, por si só, uma política vigente de qualquer organização, salvo quando formalmente adotado, adaptado e aprovado pela organização interessada.
+Este documento é um modelo autoral elaborado por Gustavo Rodrigues para orientar a elaboração de uma Política Corporativa de Uso Ético de IA. Este documento não representa, por si só, uma política vigente de qualquer organização, salvo quando formalmente adotado, adaptado e aprovado pela organização interessada.
 
 Ao institucionalizar este modelo, a organização adotante deverá: (I) identificar o proprietário interno do documento; (II) definir a estrutura de governança aplicável, por exemplo um Comitê de IA ou instância equivalente; e (III) publicar versão oficial em seu repositório normativo.
 
@@ -36,7 +47,7 @@ Esta política se aplica a todos os colaboradores, gerentes, estagiários, prest
 - 3.2. Desenvolvam, implementem ou adquiram soluções de IA;
 - 3.3. Tomem decisões baseadas em IA no contexto corporativo.
 
-Inclui-se ao projeto de aplicação de IA:
+Incluem-se no escopo desta política:
 
 - 3.4. Sistemas de IA generativa;
 - 3.5. Ferramentas de automação decisória;
@@ -48,19 +59,19 @@ Inclui-se ao projeto de aplicação de IA:
 Este modelo de política foi elaborado com referência às seguintes normas e legislações relevantes, devendo a organização adotante avaliar e assegurar sua conformidade aplicável:
 
 - 4.1. Lei nº 13.709/2018: Lei Geral de Proteção de Dados (LGPD);
-- 4.2. Projeto de Lei nº 2338/2023: Marco Legal da IA no Brasil, a qual está em tramitação. A organização adotante deverá monitorar sua evolução e adequar esta política quando aplicável;
+- 4.2. Projeto de Lei nº 2.338/2023: Marco Legal da IA no Brasil, aprovado pelo Senado Federal em dezembro de 2024 e em tramitação na Câmara dos Deputados. A organização adotante deverá monitorar sua evolução e adequar esta política quando aplicável;
 - 4.3. ISO/IEC 42001:2023: Sistema de Gestão de Inteligência Artificial;
 - 4.4. ISO/IEC 27001: Segurança da Informação;
 - 4.5. Recomendações da OCDE para Inteligência Artificial Confiável (2019).
 
-A adoção das normas ISO mencionadas neste documento se referem ao alinhamento conceitual e estrutural às boas práticas internacionais, não implicando, necessariamente, certificação formal, salvo quando explicitamente declarado pela organização.
+A adoção das normas ISO mencionadas neste documento refere-se ao alinhamento conceitual e estrutural às boas práticas internacionais, não implicando, necessariamente, certificação formal, salvo quando explicitamente declarado pela organização.
 
 ## 5. Definições
 
 Para a aplicação desta política, consideram-se as seguintes definições:
 
 - 5.1. **Sistema de IA:** sistema técnico que utiliza algoritmos computacionais para gerar inferências, previsões ou tomar decisões automatizadas;
-- 5.2. **IA Gerativa:** tecnologia que cria conteúdo a partir de diretrizes fornecidas por humanos;
+- 5.2. **IA Generativa:** tecnologia que cria conteúdo a partir de diretrizes fornecidas por humanos;
 - 5.3. **Shadow AI:** uso de sistemas de IA sem a devida autorização ou supervisão institucional;
 - 5.4. **Dados Sensíveis:** dados pessoais considerados sensíveis pela legislação vigente;
 - 5.5. **Viés Algorítmico:** distorções sistemáticas nos resultados gerados por sistemas de IA;
@@ -162,7 +173,7 @@ As medidas abaixo são referenciais e devem ser adequadas ao código de conduta,
 
 ## 14. Disposições Finais
 
-Esta política foi elaborada por Gustavo Henrique como modelo autoral e poderá ser adotada por outras organizações, total ou parcialmente, desde que adaptada ao contexto interno, validada pelas áreas competentes e aprovada formalmente pelos órgãos responsáveis.
+Esta política foi elaborada por Gustavo Rodrigues como modelo autoral e poderá ser adotada por outras organizações, total ou parcialmente, desde que adaptada ao contexto interno, validada pelas áreas competentes e aprovada formalmente pelos órgãos responsáveis.
 
 Quando institucionalizada, a organização adotante deverá identificar: (I) o proprietário interno do documento; (II) a estrutura de governança de IA aplicável; e (III) o ciclo de revisão periódica, de modo a incorporar mudanças regulatórias, tecnológicas e organizacionais.
 
@@ -170,7 +181,7 @@ Quando institucionalizada, a organização adotante deverá identificar: (I) o p
 
 ## Anexo I – Registro de Verificação de Conformidade
 
-Esta lista de controle deverá ser preenchida pelo responsável pela solução de IA e validado pela instância de governança definida pela organização adotante (ex.: Governança de TI, Comitê de IA ou equivalente), mantendo-se como evidência para auditorias internas e externas.
+Esta lista de controle deverá ser preenchida pelo responsável pela solução de IA e validada pela instância de governança definida pela organização adotante (ex.: Governança de TI, Comitê de IA ou equivalente), mantendo-se como evidência para auditorias internas e externas.
 
 - [ ] Ferramenta aprovada pela instância de governança designada (ex.: Comitê de IA ou equivalente);
 - [ ] Inventário corporativo da organização adotante;
@@ -185,3 +196,7 @@ Esta lista de controle deverá ser preenchida pelo responsável pela solução d
 | Cargo: | Cargo: |
 | Área: | Data: |
 | Data: | |
+
+---
+
+*© 2026 Gustavo Rodrigues. Este modelo está licenciado sob a [Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br). É permitido copiar, adaptar e utilizar, inclusive para fins comerciais, desde que seja dado o devido crédito.*

@@ -2,19 +2,30 @@
 
 | Field | Value |
 |---|---|
-| Version | 2.0 |
+| Version | 2.1 |
 | Classification | Public |
-| Author | Gustavo Henrique, AI Governance Specialist |
-| Issued | January 2026 |
-| Official format | [PDF](../../Corporate%20Policy%20for%20the%20Ethical%20Use%20of%20Artificial%20Intelligence%202.0.pdf) |
+| Author | Gustavo Rodrigues, AI Governance Specialist |
+| Issued | January 2026 (v2.0) |
+| Revised | September 2026 (v2.1) |
+| License | [CC BY 4.0](../../LICENSE) |
+| Official format | [PDF](../../Corporate%20Policy%20for%20the%20Ethical%20Use%20of%20Artificial%20Intelligence%202.1.pdf) |
 
 > This Markdown file reproduces the text of the PDF so that it can be read, searched and version-controlled on GitHub. If the two differ, the PDF prevails.
 
 ---
 
+## Document Control
+
+| Version | Date | Author | Changes |
+|---|---|---|---|
+| 2.0 | January 2026 | Gustavo Rodrigues | Initial public template. |
+| 2.1 | September 2026 | Gustavo Rodrigues | Editorial revision: legislative status of Bill 2,338/2023 updated and monitoring requirement added to 4.2 (aligned with the Portuguese version); document control table added; published under CC BY 4.0. No change to requirements or controls. |
+
+---
+
 ## 1. Nature and Conditions of Use (Template)
 
-This document is an original template created by Gustavo Henrique to guide the development of a Corporate Policy for the Ethical Use of Artificial Intelligence. This document does not, by itself, constitute an active policy of any organization unless it is formally adopted, adapted, and approved by the interested organization.
+This document is an original template created by Gustavo Rodrigues to guide the development of a Corporate Policy for the Ethical Use of Artificial Intelligence. This document does not, by itself, constitute an active policy of any organization unless it is formally adopted, adapted, and approved by the interested organization.
 
 When institutionalizing this model, the adopting organization must: (I) identify the internal owner of the document; (II) define the applicable governance structure, such as an AI Committee or equivalent body; and (III) publish the official version in its normative repository.
 
@@ -48,7 +59,7 @@ Included in the scope of AI implementation projects:
 This policy template was developed with reference to the following relevant standards and legislation. The adopting organization must assess and ensure applicable compliance:
 
 - 4.1. Law No. 13,709/2018: General Personal Data Protection Law (LGPD – Brazil);
-- 4.2. Bill No. 2,338/2023: Artificial Intelligence Legal Framework in Brazil, currently under legislative review;
+- 4.2. Bill No. 2,338/2023: Artificial Intelligence Legal Framework in Brazil, approved by the Federal Senate in December 2024 and currently under review in the Chamber of Deputies. The adopting organization must monitor its progress and update this policy when applicable;
 - 4.3. ISO/IEC 42001:2023: Artificial Intelligence Management System;
 - 4.4. ISO/IEC 27001: Information Security Management;
 - 4.5. OECD Recommendations on Trustworthy Artificial Intelligence (2019).
@@ -164,7 +175,7 @@ The following measures are indicative and must be aligned with the code of condu
 
 ## 14. Final Provisions
 
-This policy was developed by Gustavo Henrique as an original template and may be adopted by other organizations, in whole or in part, provided it is adapted to the internal context, validated by the relevant departments, and formally approved by the responsible governing bodies.
+This policy was developed by Gustavo Rodrigues as an original template and may be adopted by other organizations, in whole or in part, provided it is adapted to the internal context, validated by the relevant departments, and formally approved by the responsible governing bodies.
 
 Once institutionalized, the adopting organization must identify: (I) the internal owner of the document; (II) the applicable AI governance structure; and (III) the periodic review cycle, in order to incorporate regulatory, technological, and organizational changes.
 
@@ -187,3 +198,7 @@ This checklist must be completed by the person responsible for the AI solution a
 | Position: | Position: |
 | Department: | Date: |
 | Date: | |
+
+---
+
+*© 2026 Gustavo Rodrigues. This template is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, adapt and use it, including commercially, provided you give appropriate credit.*
