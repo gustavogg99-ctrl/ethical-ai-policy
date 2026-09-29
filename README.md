@@ -66,6 +66,17 @@ This template gives an organization a starting point to set the rules: which AI 
 
 ---
 
+## Supporting Procedures and Tools
+
+| Document | What it does | Status |
+|---|---|---|
+| [AI Vendor Risk Assessment Procedure](procedures/ai-vendor-risk-assessment.md) | Vendor-agnostic method to assess AI vendors before purchase: inherent risk tiering, 30 questions in 8 weighted domains, 5 knock-out criteria, decision rules, required contract clauses and reassessment triggers | v1.0, part of policy 3.0 |
+| [AI Vendor Risk Assessment Matrix](templates/ai-vendor-risk-assessment-matrix.xlsx) | Excel tool that applies the procedure to up to 3 vendors side by side and calculates score, residual risk and decision. Pre-filled with a fictional example | v1.0 |
+
+The procedure operationalizes policy sections 3.2 (acquisition of AI), 7.1 (prior approval), 8.1 (risk classification) and 10.1 (AI inventory). It maps to ISO/IEC 42001 A.10, ISO/IEC 27001:2022 A.5.19–A.5.23, NIST AI RMF GOVERN 6 and LGPD Arts. 33 and 39.
+
+---
+
 ## Framework Alignment
 
 A section-by-section mapping to ISO/IEC 42001 (clauses and Annex A), NIST AI RMF and LGPD articles is in **[docs/framework-mapping.md](docs/framework-mapping.md)**.
@@ -98,6 +109,10 @@ ethical-ai-policy/
 ├── policy/
 │   ├── en/corporate-ai-policy-v2.1.md
 │   └── pt-br/politica-corporativa-ia-v2.1.md
+├── procedures/
+│   └── ai-vendor-risk-assessment.md
+├── templates/
+│   └── ai-vendor-risk-assessment-matrix.xlsx
 ├── docs/
 │   ├── framework-mapping.md
 │   └── review-and-roadmap.md
@@ -113,7 +128,7 @@ ethical-ai-policy/
 |---|---|---|
 | 2.0 | January 2026 | Initial public template. Template status, governance structure, Shadow AI controls, Annex I compliance record. |
 | 2.1 | September 2026 | Current version. Editorial revision: legislative status of Bill 2,338/2023 updated, EN and PT versions aligned, wording fixes, document control table, author name standardized, published under CC BY 4.0. No change to requirements or controls. |
-| 3.0 | Planned | Risk classification, impact assessment template, AI incident response, vendor due diligence, generative AI rules. See [roadmap](docs/review-and-roadmap.md). |
+| 3.0 | In progress | Risk classification, impact assessment template, AI incident response, vendor due diligence, generative AI rules. See [roadmap](docs/review-and-roadmap.md). |
 
 ---
 

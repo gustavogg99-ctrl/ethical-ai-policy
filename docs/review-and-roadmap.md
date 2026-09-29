@@ -27,7 +27,7 @@ Review date: September 2026.
 | G-01 | No risk classification criteria. The policy requires risks to be classified but does not define levels or criteria. | 8.1 | Without criteria, "high risk" is decided case by case and cannot be audited consistently. | High |
 | G-02 | No method for the algorithmic impact assessment. | 8.1 | ISO/IEC 42001 6.1.4 and A.5 expect a defined impact assessment process. | High |
 | G-03 | No AI incident management procedure: definition of an AI incident, severity, response time, communication. | 11.1, 13 | Users are asked to report incidents, but there is no process to receive and handle them. | High |
-| G-04 | Third-party and vendor AI not covered, although acquisition is in scope. | 3.2 | Most corporate AI use comes from vendors. Due diligence is a core AI risk control. | High |
+| G-04 | Third-party and vendor AI not covered, although acquisition is in scope. | 3.2 | Most corporate AI use comes from vendors. Due diligence is a core AI risk control. | High · **Addressed** |
 | G-05 | Generative AI rules limited to data input. No rules on output verification, hallucinations, intellectual property or disclosure of AI-generated content. | 7 | These are the most frequent risks in day-to-day generative AI use. | Medium |
 | G-06 | No RACI matrix. Responsibilities are listed but not assigned by role and activity. | 8, 11 | A matrix makes accountability auditable. | Medium |
 | G-07 | No training and awareness requirement. | — | ISO/IEC 42001 7.2 and 7.3 require competence and awareness. | Medium |
@@ -64,7 +64,7 @@ Regulatory status check (September 2026): Bill 2,338/2023 was approved by the Fe
 | Risk classification procedure (tiers and criteria, based on ISO/IEC 23894 and the EU AI Act risk approach) | G-01 | Procedure |
 | AI impact assessment template | G-02 | Template |
 | AI incident response procedure | G-03 | Procedure |
-| AI vendor due diligence requirements, linked to the AI Vendor Risk Assessment Framework project | G-04 | Section + template |
+| AI vendor due diligence: [procedure](../procedures/ai-vendor-risk-assessment.md) and [assessment matrix](../templates/ai-vendor-risk-assessment-matrix.xlsx) | G-04 | **Done (September 2026)**. Policy text reference to be added in 3.0 |
 | Generative AI usage rules: output review, IP, disclosure | G-05 | New policy section |
 | RACI matrix | G-06 | Annex |
 | Training and awareness requirement | G-07 | New policy section |
@@ -84,11 +84,12 @@ ethical-ai-policy/
 │   └── pt-br/politica-corporativa-ia-v3.0.md
 ├── procedures/
 │   ├── ai-risk-classification.md
-│   └── ai-incident-response.md
+│   ├── ai-incident-response.md
+│   └── ai-vendor-risk-assessment.md               done
 ├── templates/
 │   ├── ai-impact-assessment.md
 │   ├── ai-inventory.md
-│   └── ai-vendor-due-diligence.md
+│   └── ai-vendor-risk-assessment-matrix.xlsx      done
 └── docs/
     ├── framework-mapping.md
     └── review-and-roadmap.md

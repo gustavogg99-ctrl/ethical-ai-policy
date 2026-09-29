@@ -22,7 +22,7 @@ Coverage legend:
 |---|---|---|---|---|
 | 1. Nature and conditions of use | 4.3 Scope of the AIMS; 5.2 AI policy | GOVERN | Art. 50 (governance and good practices) | Delegated |
 | 2. Purpose | 5.2 AI policy; A.2 Policies related to AI | GOVERN | Art. 6 (principles) | Covered |
-| 3. Scope of application | 4.3 Scope; A.10 Third-party and customer relationships | GOVERN, MAP | — | Covered |
+| 3. Scope of application | 4.3 Scope; A.10 Third-party and customer relationships (operationalized by the [AI Vendor Risk Assessment Procedure](../procedures/ai-vendor-risk-assessment.md)) | GOVERN, MAP | — | Covered |
 | 4. Legal and normative references | 4.1 / 4.2 Context and interested parties | GOVERN | — | Covered |
 | 5. Definitions | — | MAP | Art. 5 (definitions, including sensitive data and anonymization) | Covered |
 | 6. AI usage principles | 5.2 AI policy; A.2 | GOVERN (trustworthiness characteristics) | Art. 6 (transparency, non-discrimination, security, accountability) | Covered |
