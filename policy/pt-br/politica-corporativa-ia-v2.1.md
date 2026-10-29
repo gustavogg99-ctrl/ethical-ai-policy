@@ -4,7 +4,7 @@
 |---|---|
 | Versão | 2.1 |
 | Uso | Público |
-| Responsável | Gustavo Rodrigues, Especialista em Governança de IA |
+| Responsável | Gustavo Rodrigues |
 | Emissão | Janeiro de 2026 (v2.0) |
 | Revisão | Setembro de 2026 (v2.1) |
 | Licença | [CC BY 4.0](../../LICENSE) |

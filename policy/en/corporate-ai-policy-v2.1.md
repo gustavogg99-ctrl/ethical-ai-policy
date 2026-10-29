@@ -4,7 +4,7 @@
 |---|---|
 | Version | 2.1 |
 | Classification | Public |
-| Author | Gustavo Rodrigues, AI Governance Specialist |
+| Author | Gustavo Rodrigues |
 | Issued | January 2026 (v2.0) |
 | Revised | September 2026 (v2.1) |
 | License | [CC BY 4.0](../../LICENSE) |
