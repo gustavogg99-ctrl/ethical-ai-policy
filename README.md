@@ -140,7 +140,7 @@ ethical-ai-policy/
 
 ## Author
 
-**Gustavo Rodrigues**, AI Governance Specialist
+**Gustavo Rodrigues**
 [LinkedIn](https://www.linkedin.com/in/gustavo99rodrigues) · [GitHub](https://github.com/gustavogg99-ctrl)
 
 ---
