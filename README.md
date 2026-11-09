@@ -134,7 +134,7 @@ ethical-ai-policy/
 
 ## Related Project
 
-**[AI Autonomous Support Agent](https://github.com/gustavogg99-ctrl/ai-autonomous-support-agent)**: a Python prototype that applies the principles of this policy in practice. It shows human-in-the-loop escalation, automation boundaries, sensitive data detection and redacted audit logs.
+**[Support Agent Governance Prototype](https://github.com/gustavogg99-ctrl/support-agent-governance-prototype)**: a rule-based Python prototype (no LLM) that applies the principles of this policy in practice. It shows human-in-the-loop escalation, automation boundaries, sensitive data detection and redacted audit logs, covered by 20 automated tests in CI.
 
 ---
 
